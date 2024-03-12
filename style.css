@@ -1,8 +1,7 @@
 body{
     background-color: aqua;
-    color: blueviolet;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: white;
+    color: white;
+
 }
 header{
     background:url("./images/orang.jpg");
@@ -12,3 +11,7 @@ a{color: yellow;}
 a:visited{color: rgb(255, 0, 255);}
 a:hover{color: crimson;}
 a:active{color: rgb(114, 175, 0);}
+h1{font-size: 100px;}
+h2{font-size: 41px;}
+p{font-size: 35px;}
+ul{list-style:square;}
