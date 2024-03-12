@@ -1,11 +1,15 @@
 body{
     background-color: aqua;
     color: white;
-
+    text-align: center;
+    width: 85%;
+    height: 94%;
 }
 header{
     background:url("./images/orang.jpg");
     background-size: 18%;
+    width: 50%;
+    height: 68.8%;
 }
 a{color: yellow;}
 a:visited{color: rgb(255, 0, 255);}
@@ -15,3 +19,5 @@ h1{font-size: 100px;}
 h2{font-size: 41px;}
 p{font-size: 35px;}
 ul{list-style:square;}
+footer{height: 50%;
+width: 97%;}
