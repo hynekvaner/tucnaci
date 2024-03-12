@@ -1,4 +1,14 @@
 body{
     background-color: aqua;
     color: blueviolet;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
 }
+header{
+    background:url("./images/orang.jpg");
+    background-size: 18%;
+}
+a{color: yellow;}
+a:visited{color: rgb(255, 0, 255);}
+a:hover{color: crimson;}
+a:active{color: rgb(114, 175, 0);}
